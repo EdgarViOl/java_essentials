@@ -6,5 +6,5 @@ public class Buggy0 {
 		//Input.print("hello, world\n");
 
 	}
-
+//EVO;Respuesta: El error es que la sentencia esta comentada, por eso no la va a ejecutar
 }
